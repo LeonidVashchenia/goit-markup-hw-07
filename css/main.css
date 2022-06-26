@@ -518,8 +518,6 @@ img {
   font-style: normal;
 }
 
-.address__list {}
-
 .address__item:not(:last-child) {
   margin-bottom: 9px;
 }
@@ -646,8 +644,6 @@ img {
   padding-bottom: 94px;
 }
 
-.colection-title {}
-
 /* ?----filter---- */
 
 .filter-list {
@@ -686,7 +682,6 @@ img {
 }
 
 /* ?----colection-link---- */
-.section-subtitle {}
 
 .colection-list {
   display: flex;
