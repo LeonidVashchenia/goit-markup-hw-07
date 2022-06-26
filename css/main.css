@@ -81,15 +81,11 @@ img {
   text-decoration: none;
 }
 
-/* .logo-first-color {
-  color: var(--brand-primary-color);
-} */
-/* -----зробити модифікатори------ */
-.logo-second-color {
+.logo--header {
   color: var(--brand-logo-second-color);
 }
 
-.logo-third-color {
+.logo--footer {
   color: var(--bkc-primary-color);
 }
 
