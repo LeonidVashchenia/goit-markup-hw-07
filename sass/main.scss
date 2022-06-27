@@ -3,14 +3,19 @@
 @import './components/commons/logo';
 @import './components/commons/btn';
 @import './components/commons/backdrop';
+@import './components/commons/social-networks';
+
 @import './components/header/header';
 @import './components/header/nav';
 @import './components/header/contacts';
+
 @import './components/hero';
 @import './components/benefits';
 @import './components/direction';
 @import './components/staff';
 @import './components/customers';
-@import './components/footer';
 @import './components/subscription';
 @import './components/colection';
+
+@import './components/footer/footer';
+@import './components/footer/adress';
