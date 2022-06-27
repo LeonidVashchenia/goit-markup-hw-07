@@ -1,5 +1,5 @@
 /* ?----Custom Properties---- */
-:root {
+/* :root {
   --brand-primary-color: #2196F3;
   --brand-second-color: #212121;
   --brand-logo-second-color: #000000;
@@ -12,10 +12,10 @@
   --btn-hover: #188CE8;
   --border-color: #ECECEC;
   --icon-primary-color: #AFB1B8;
-}
+} */
 
 /*? ----General settings -------*/
-body {
+/* body {
   font-family: 'Roboto', sans-serif;
   color: var(--text-primary-color);
   background-color: var(--bkc-primary-color);
@@ -35,7 +35,7 @@ h3 {
 }
 
 /* ---в кінці .link забрати бо додато до блоків */
-.link {
+/* .link {
   text-decoration: none;
 }
 
@@ -63,8 +63,8 @@ img {
   display: block;
   width: 100%;
   height: auto;
-}
-
+} */
+*/
 /* ----Page---- */
 
 /* ?--------------logo-------------- */
