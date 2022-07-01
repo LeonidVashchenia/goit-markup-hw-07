@@ -1,15 +1,15 @@
 .btn {
   display: block;
   font-family: inherit;
-  font-weight: 700;
   font-size: 16px;
+  text-align: center;
+  font-weight: 700;
   line-height: 1.87;
+  letter-spacing: 0.06em;
   min-width: 200px;
   min-height: 50px;
-  text-align: center;
   margin: 0 auto;
   padding: 0;
-  letter-spacing: 0.06em;
   color: var(--bkc-primary-color);
   background-color: var(--brand-primary-color);
   border-radius: 4px;
@@ -25,9 +25,3 @@
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
   }
 }
-
-/* .btn:hover,
-.btn:focus {
-  background-color: var(--btn-hover);
-  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
-} */
