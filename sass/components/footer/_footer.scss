@@ -18,13 +18,11 @@
     color: var(--bkc-primary-color);
     margin-bottom: 20px;
   }
-}
-
-.address-container {
-  width: 231px;
-  margin-right: 70px;
-}
-
-.social-networks-container {
-  margin-right: auto;
+  &__address {
+    width: 231px;
+    margin-right: 70px;
+  }
+  &__social-networks {
+    margin-right: auto;
+  }
 }
