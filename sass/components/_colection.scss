@@ -29,6 +29,14 @@
     letter-spacing: 0.03em;
     color: var(--text-primary-color);
   }
+  &__bottom-wrap {
+    width: 370px;
+    padding: 20px 24px;
+  }
+  &__top-wrap {
+    position: relative;
+    overflow: hidden;
+  }
 }
 
 .colection__link {
@@ -40,16 +48,6 @@
     box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.12), 0px 4px 4px rgba(0, 0, 0, 0.06),
       1px 4px 6px rgba(0, 0, 0, 0.16);
   }
-}
-
-.colection__bottom-wrap {
-  width: 370px;
-  padding: 20px 24px;
-}
-
-.colection__top-wrap {
-  position: relative;
-  overflow: hidden;
 }
 
 .colection__top-text {
